@@ -1,0 +1,4 @@
+
+npx create-react-app msekart
+
+npm install --save-exact @rstacruz/startup-name-generator
