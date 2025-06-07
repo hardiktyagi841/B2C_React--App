@@ -1,11 +1,8 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "@rstacruz/startup-name-generator": "0.3.0"
-=======
   "name": "msekart",
   "version": "0.1.0",
   "private": true,
+  "author": "hardiktyagi841",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -38,6 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 1b487ec (raw 1.0)
   }
 }
